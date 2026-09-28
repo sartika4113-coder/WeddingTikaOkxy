@@ -29,7 +29,7 @@ const WEDDING_CONFIG = {
   quoteSource: "QS. Ar-Rum: 21",
 
   // Ganti dengan URL Web App Google Apps Script kamu (Deploy > New deployment)
-  rsvpApiUrl: "https://script.google.com/macros/s/XXX/exec",
+  rsvpApiUrl: "https://script.google.com/macros/s/AKfycbxXYit2bYCA8dkDykVfibqY0MDeTrBjeEYxXT2ickRtdXz3GAM8bXOFQuvMdX_3iIzg/exec",
 
   musicSrc: "assets/music/background-music.mp3",
   musicTitle: "Wals Akhir Zaman — Rony Parulian"
