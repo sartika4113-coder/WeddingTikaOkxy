@@ -9,7 +9,7 @@ const WEDDING_CONFIG = {
 
   brideFather: "Djalil (Alm.)",
   brideMother: "Ropiah",
-  groomFather: "Sigianto",
+  groomFather: "Sugianto",
   groomMother: "Wijiati",
 
   venueName: "Kediaman Mempelai Wanita",
